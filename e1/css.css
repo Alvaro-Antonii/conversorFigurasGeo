@@ -1,0 +1,41 @@
+*{
+    font-family: Arial;
+    text-align: center;
+    box-sizing: border-box;
+}
+.cabecera{
+    width: 100%;
+    height: 90px;
+    background-color: rgb(238, 108, 60);
+}
+.Cuerpo{
+    width: 100%;
+    height: 600px;
+    background-color: rgb(196, 189, 189);
+    overflow: hidden;
+    margin: auto;
+    
+}
+
+.caja{
+    width: 300px;
+    height: 300px;
+    background-color: rgb(243, 209, 58);
+    float: left;
+    border: 2px solid cornflowerblue;
+    padding: 10px;
+    margin: 10px;
+}
+.titulo{
+    padding: 5px;
+    border-radius: 2px;
+    background-color: yellowgreen;
+    text-align: center;
+}
+
+.btn{
+    margin: 10px;
+    border-radius: 5px;
+    width: 90px;
+    height: 30px;
+}
